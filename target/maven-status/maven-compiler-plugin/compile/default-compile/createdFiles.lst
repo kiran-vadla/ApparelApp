@@ -1,0 +1,6 @@
+com\demo\myretail\vo\Product.class
+com\demo\myretail\dao\ProductDAO.class
+com\demo\myretail\bo\ProductPriceProcessor.class
+com\demo\myretail\dao\ProductDAOImpl.class
+com\demo\myretail\entity\BaseEntity.class
+com\demo\myretail\util\MongoConnector.class
