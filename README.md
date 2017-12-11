@@ -27,7 +27,7 @@ Technlogy Stack
 
 For details on the MongoDB schema , please refer the image file 'apparelApp-mongodb-schema.PNG' that is 
 available parallel to this README.md file in the GIT Repository
-
+************************************	
 Instructions to launch this program
 ************************************
 
@@ -41,6 +41,7 @@ Output that will be print in the console will be as follows
 
 ***********************************************************************************************************
 Sum of the Products Price (separated by comma) after discount , calcualted for each line in csv  is 3860.0
+
 Sum of the Products Price (separated by comma) after discount , calcualted for each line in csv  is 2140.0
 **********************************************************************************************************
 	
