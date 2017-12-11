@@ -1,6 +1,6 @@
-D:\Devon-2.2.0\Devon-dist_2.2.0\workspaces\practice\retail\src\com\demo\myretail\entity\BaseEntity.java
-D:\Devon-2.2.0\Devon-dist_2.2.0\workspaces\practice\retail\src\com\demo\myretail\dao\ProductDAO.java
-D:\Devon-2.2.0\Devon-dist_2.2.0\workspaces\practice\retail\src\com\demo\myretail\util\MongoConnector.java
-D:\Devon-2.2.0\Devon-dist_2.2.0\workspaces\practice\retail\src\com\demo\myretail\dao\ProductDAOImpl.java
-D:\Devon-2.2.0\Devon-dist_2.2.0\workspaces\practice\retail\src\com\demo\myretail\bo\ProductPriceProcessor.java
-D:\Devon-2.2.0\Devon-dist_2.2.0\workspaces\practice\retail\src\com\demo\myretail\vo\Product.java
+D:\tutorial\practice\apparelApp\src\com\demo\myretail\vo\Product.java
+D:\tutorial\practice\apparelApp\src\com\demo\myretail\bo\ProductPriceProcessor.java
+D:\tutorial\practice\apparelApp\src\com\demo\myretail\dao\ProductDAO.java
+D:\tutorial\practice\apparelApp\src\com\demo\myretail\util\MongoConnector.java
+D:\tutorial\practice\apparelApp\src\com\demo\myretail\dao\ProductDAOImpl.java
+D:\tutorial\practice\apparelApp\src\com\demo\myretail\entity\BaseEntity.java
