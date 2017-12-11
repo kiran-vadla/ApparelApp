@@ -39,10 +39,10 @@ Assuming that the input file is at location D:\\productsInput.csv, launch the Ja
 	
 Output that will be print in the console will be as follows 
 
-*************************
+***********************************************************************************************************
 Sum of the Products Price (separated by comma) after discount , calcualted for each line in csv  is 3860.0
 Sum of the Products Price (separated by comma) after discount , calcualted for each line in csv  is 2140.0
-*************************
+**********************************************************************************************************
 	
 
 	
